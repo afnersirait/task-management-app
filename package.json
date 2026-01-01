@@ -1,6 +1,21 @@
 {
   "name": "task-management-app",
   "version": "1.0.0",
+  "description": "A modern collaborative task management platform with real-time capabilities",
+  "author": "Afner Sirait <afner.sirait@example.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afnersirait/task-management-app.git"
+  },
+  "keywords": [
+    "task-management",
+    "collaboration",
+    "real-time",
+    "nextjs",
+    "typescript",
+    "postgresql",
+    "websocket"
+  ],
   "private": true,
   "scripts": {
     "dev": "next dev",
