@@ -376,4 +376,3 @@ This project was built with the help of amazing open-source technologies:
 
 ---
 
-**Made with ❤️ by Afner Sirait**
