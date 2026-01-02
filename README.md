@@ -1,27 +1,5 @@
 # TaskFlow - Modern Task Management System
 
-Built by **Afner Sirait** | A powerful collaborative task management platform with real-time capabilities
-
-> "Simplifying team collaboration, one task at a time" - Afner Sirait
-
-## 🎯 Why I Built This
-
-As a developer passionate about productivity and team collaboration, I wanted to create a task management solution that combines modern web technologies with an intuitive user experience. This project showcases my expertise in full-stack development, real-time systems, and cloud-native architecture.
-
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard Overview](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Dashboard+Overview)
-
-### Task Board with Drag & Drop
-![Task Board](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Task+Board)
-
-### Analytics Dashboard
-![Analytics](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Analytics+Dashboard)
-
-### Dark Mode Support
-![Dark Mode](https://via.placeholder.com/800x400/1F2937/FFFFFF?text=Dark+Mode)
-
 ## 🎖️ Project Highlights
 
 - ✅ **100% TypeScript** - Full type safety across the entire stack
