@@ -342,18 +342,6 @@ The project includes GitHub Actions workflow that:
 
 See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
 
-## 🤝 Contributing
-
-I welcome contributions! If you'd like to improve this project:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-Please make sure to update tests as appropriate and follow the existing code style.
-
 ## 📬 Contact
 
 **Afner Sirait**
@@ -362,17 +350,4 @@ Please make sure to update tests as appropriate and follow the existing code sty
 - LinkedIn: [Afner Sirait](https://linkedin.com/in/afnersirait)
 
 Feel free to reach out if you have questions or want to discuss this project!
-
-## 🙏 Acknowledgments
-
-This project was built with the help of amazing open-source technologies:
-
-- [Next.js](https://nextjs.org/) - The React Framework for Production
-- [Prisma](https://www.prisma.io/) - Next-generation ORM
-- [NextAuth.js](https://next-auth.js.org/) - Authentication for Next.js
-- [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [Socket.IO](https://socket.io/) - Real-time bidirectional communication
-
----
 
